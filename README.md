@@ -48,4 +48,3 @@
 ### Eliminar recursos
  - Exluir os elementos criados
 
-# AWS
